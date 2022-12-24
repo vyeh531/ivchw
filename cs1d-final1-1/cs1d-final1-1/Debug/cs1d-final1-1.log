@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\CS1C\source\repos\cs1d-final1-1\cs1d-final1-1\Source.cpp(48,24): warning C4018: '<': signed/unsigned mismatch
+D:\CS1C\source\repos\cs1d-final1-1\cs1d-final1-1\Source.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+  cs1d-final1-1.vcxproj -> D:\CS1C\source\repos\cs1d-final1-1\Debug\cs1d-final1-1.exe

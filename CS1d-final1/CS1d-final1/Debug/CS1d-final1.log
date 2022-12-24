@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\CS1C\source\repos\CS1d-final1\CS1d-final1\Source.cpp(37,14): warning C4129: 'D': unrecognized character escape sequence
+D:\CS1C\source\repos\CS1d-final1\CS1d-final1\Source.cpp(37,14): warning C4129: 's': unrecognized character escape sequence
+D:\CS1C\source\repos\CS1d-final1\CS1d-final1\Source.cpp(38,15): warning C4129: 'D': unrecognized character escape sequence
+D:\CS1C\source\repos\CS1d-final1\CS1d-final1\Source.cpp(38,15): warning C4129: 's': unrecognized character escape sequence
+D:\CS1C\source\repos\CS1d-final1\CS1d-final1\Source.cpp(75,24): warning C4018: '<': signed/unsigned mismatch
+D:\CS1C\source\repos\CS1d-final1\CS1d-final1\Source.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+  CS1d-final1.vcxproj -> D:\CS1C\source\repos\CS1d-final1\Debug\CS1d-final1.exe
