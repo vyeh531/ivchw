@@ -1,0 +1,14 @@
+﻿'hw10.exe' (Win32): Loaded 'C:\Users\viviy\source\repos\hw10\Debug\hw10.exe'. Symbols loaded.
+'hw10.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'hw10.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'hw10.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'hw10.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'hw10.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'hw10.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3e70 has exited with code 0 (0x0).
+'hw10.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'hw10.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'hw10.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x2e20 has exited with code 0 (0x0).
+The thread 0x44c8 has exited with code 0 (0x0).
+The program '[17120] hw10.exe' has exited with code 0 (0x0).
