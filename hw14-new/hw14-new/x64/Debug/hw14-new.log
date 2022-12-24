@@ -1,0 +1,14 @@
+﻿  doublyLinkedList.cpp
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.h(188,1): error C2535: 'doublyLinkedList<Type>::doublyLinkedList(const doublyLinkedList<Type> &)': member function already defined or declared
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.h(163): message : see declaration of 'doublyLinkedList<Type>::doublyLinkedList'
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.h(189): message : see reference to class template instantiation 'doublyLinkedList<Type>' being compiled
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.cpp(308,25): error C2995: 'doublyLinkedList<Type>::doublyLinkedList(const doublyLinkedList<Type> &)': function template has already been defined
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.h(163): message : see declaration of 'doublyLinkedList<Type>::doublyLinkedList'
+  hw14.cpp
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.h(188,1): error C2535: 'doublyLinkedList<Type>::doublyLinkedList(const doublyLinkedList<Type> &)': member function already defined or declared
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.h(163): message : see declaration of 'doublyLinkedList<Type>::doublyLinkedList'
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.h(189): message : see reference to class template instantiation 'doublyLinkedList<Type>' being compiled
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.h(188,1): error C2535: 'doublyLinkedList<int>::doublyLinkedList(const doublyLinkedList<int> &)': member function already defined or declared
+D:\CS1C\source\repos\hw14-new\hw14-new\doublyLinkedList.h(163): message : see declaration of 'doublyLinkedList<int>::doublyLinkedList'
+D:\CS1C\source\repos\hw14-new\hw14-new\hw14.cpp(46): message : see reference to class template instantiation 'doublyLinkedList<int>' being compiled
+  Generating Code...

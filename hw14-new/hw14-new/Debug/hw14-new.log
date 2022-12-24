@@ -1,0 +1,11 @@
+﻿  hw14.cpp
+hw14.obj : error LNK2019: unresolved external symbol "public: class doublyLinkedList<int> const & __thiscall doublyLinkedList<int>::operator=(class doublyLinkedList<int> const &)" (??4?$doublyLinkedList@H@@QAEABV0@ABV0@@Z) referenced in function _main
+hw14.obj : error LNK2019: unresolved external symbol "public: void __thiscall doublyLinkedList<int>::initializeList(void)" (?initializeList@?$doublyLinkedList@H@@QAEXXZ) referenced in function _main
+hw14.obj : error LNK2019: unresolved external symbol "public: void __thiscall doublyLinkedList<int>::print(void)const " (?print@?$doublyLinkedList@H@@QBEXXZ) referenced in function _main
+hw14.obj : error LNK2019: unresolved external symbol "public: void __thiscall doublyLinkedList<int>::reversePrint(void)const " (?reversePrint@?$doublyLinkedList@H@@QBEXXZ) referenced in function _main
+hw14.obj : error LNK2019: unresolved external symbol "public: void __thiscall doublyLinkedList<int>::insert(int const &)" (?insert@?$doublyLinkedList@H@@QAEXABH@Z) referenced in function _main
+hw14.obj : error LNK2019: unresolved external symbol "public: void __thiscall doublyLinkedList<int>::deleteNode(int const &)" (?deleteNode@?$doublyLinkedList@H@@QAEXABH@Z) referenced in function _main
+hw14.obj : error LNK2019: unresolved external symbol "public: __thiscall doublyLinkedList<int>::doublyLinkedList<int>(void)" (??0?$doublyLinkedList@H@@QAE@XZ) referenced in function _main
+hw14.obj : error LNK2019: unresolved external symbol "public: __thiscall doublyLinkedList<int>::doublyLinkedList<int>(class doublyLinkedList<int> const &)" (??0?$doublyLinkedList@H@@QAE@ABV0@@Z) referenced in function _main
+hw14.obj : error LNK2019: unresolved external symbol "public: __thiscall doublyLinkedList<int>::~doublyLinkedList<int>(void)" (??1?$doublyLinkedList@H@@QAE@XZ) referenced in function _main
+C:\Users\viviy\source\repos\hw14-new\Debug\hw14-new.exe : fatal error LNK1120: 9 unresolved externals
