@@ -1,0 +1,25 @@
+﻿  Source.cpp
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(26,16): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(32,17): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(33,13): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(34,27): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(48,17): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(49,13): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(51,27): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(54,22): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(54,40): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(55,22): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(55,35): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(56,21): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(57,21): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(58,31): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(60,27): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(60,46): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(61,21): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(71,17): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(72,16): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(73,16): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(74,16): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(80,13): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+D:\CS1C\source\repos\cs1d-final2\cs1d-final2\Source.cpp(81,13): warning C4244: 'argument': conversion from 'll' to 'const unsigned int', possible loss of data
+  cs1d-final2.vcxproj -> D:\CS1C\source\repos\cs1d-final2\Debug\cs1d-final2.exe
