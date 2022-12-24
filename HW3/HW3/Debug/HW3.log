@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\viviy\source\repos\HW3\HW3\Source.cpp(12,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HW3.vcxproj -> C:\Users\viviy\source\repos\HW3\Debug\HW3.exe
